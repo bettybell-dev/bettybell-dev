@@ -1,36 +1,89 @@
-<h1 align="center">Hi 👋, I'm bettybell</h1>
-<h3 align="center">I am a Vibe Code beginner in the world of programming.</h3>
+<h1 align="center">Hi, I'm bettybell</h1><h3 align="center">I am a Vibe Code beginner in the world of programming.</h3><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bettybell-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p><br><table align="center">
+<tr><td align="center" width="50%"><h3>About Me</h3><p>
+<b>Currently working on</b><br>
+<a href="https://github.com/bettybell-dev/orenpad">orenpad</a><br>
+An offline novel-writing app for Android.
+</p><p>
+<b>Currently learning</b><br>
+Programming & App Development
+</p><p>
+<b>Looking for help with</b><br>
+<a href="https://github.com/bettybell-dev/orenpad">orenpad</a>
+</p></td><td align="center" width="50%"><h3>More About Me</h3><p>
+<b>Writing</b><br>
+<a href="https://bettyjourneys.blogspot.com/?m=1">Betty Journeys</a>
+</p><p>
+<b>Contact</b><br>
+<a href="mailto:gtumbalai@gmail.com">gtumbalai@gmail.com</a>
+</p><p>
+<b>Fun fact</b><br>
+I am a novel reader and also a co-owner of an online community.
+</p></td></tr>
+</table><br><h3 align="center">Currently Working On</h3><p align="center">
+<a href="https://github.com/bettybell-dev/orenpad">
+<img
+src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=bettybell-dev&repo=orenpad"
+alt="orenpad repository"
+/>
+</a>
+</p><br><h3 align="center">Languages and Tools</h3><p align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+</a><a href="https://dart.dev" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+</a><a href="https://flutter.dev" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</a><a href="https://git-scm.com" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+</a><a href="https://www.linux.org" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a><a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a><a href="https://www.qt.io" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
+</a><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/>
+</a><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+</a></p><br><h3 align="center">GitHub Statistics</h3><table align="center">
+<tr><td align="center"><img
+src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=bettybell-dev&layout=compact"
+alt="Top Languages"
+/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bettybell-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bettybell-dev" /> </p>
+</td><td align="center"><img
+src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=bettybell-dev&show_icons=true"
+alt="GitHub Statistics"
+/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bettybell-dev" alt="bettybell-dev" /></a> </p>
-
-- 🔭 I’m currently working on [Orenpad - an oflline novel-writing app for android](https://github.com/bettybell-dev/orenpad)
-
-- 🌱 I’m currently learning **-**
-
-- 👯 I’m looking to collaborate on [ChatAi Project](-)
-
-- 🤝 I’m looking for help with [Orenpad - an oflline novel-writing app for android](https://github.com/bettybell-dev/orenpad)
-
-- 📝 I regularly write articles on [https://bettyjourneys.blogspot.com/?m=1](https://bettyjourneys.blogspot.com/?m=1)
-
-- 📫 How to reach me **gtumbalai@gmail.com**
-
-- ⚡ Fun fact **I am a novel reader and also a Co-Owner of an online communnity**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="-" height="30" width="40" /></a>
-<a href="https://instagram.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="-" height="30" width="40" /></a>
-<a href="https://discord.gg/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="-" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettybell-dev&show_icons=true&locale=en&layout=compact" alt="bettybell-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bettybell-dev&show_icons=true&locale=en" alt="bettybell-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bettybell-dev&" alt="bettybell-dev" /></p>
+</td></tr>
+</table><p align="center">
+<img
+src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=bettybell-dev"
+alt="GitHub Streak"
+/>
+</p><br><h3 align="center">Connect with Me</h3><p align="center"><a href="mailto:gtumbalai@gmail.com">
+<img
+src="https://cdn.simpleicons.org/gmail"
+alt="Email"
+height="30"
+width="40"
+/>
+</a><a href="https://github.com/bettybell-dev">
+<img
+src="https://cdn.simpleicons.org/github"
+alt="GitHub"
+height="30"
+width="40"
+/>
+</a><a href="https://bettyjourneys.blogspot.com/?m=1">
+<img
+src="https://cdn.simpleicons.org/blogger"
+alt="Blog"
+height="30"
+width="40"
+/>
+</a></p>
